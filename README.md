@@ -52,5 +52,8 @@ Plaintext
 http://localhost/PROJECTS/jobdesc.gen/index.php
 ```
 
+<img width="1848" height="920" alt="job gen" src="https://github.com/user-attachments/assets/905681d7-7937-4be8-b178-839c1c716833" />
+
+
 ## 📜 License
  Built with ⚡ by SHEZA, AI Agentic Workflow Developer.
