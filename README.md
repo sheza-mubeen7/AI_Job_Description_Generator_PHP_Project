@@ -4,6 +4,9 @@ An enterprise-grade, high-fidelity AI workflow system designed to orchestrate pr
 
 ---
 
+<img width="1848" height="920" alt="job gen" src="https://github.com/user-attachments/assets/905681d7-7937-4be8-b178-839c1c716833" />
+
+
 ## 🛠️ Tech Stack & Architecture
 
 ### Frontend Terminal
@@ -51,9 +54,6 @@ Fire up your Apache Module in XAMPP and open your browser to hit this exact serv
 Plaintext
 http://localhost/PROJECTS/jobdesc.gen/index.php
 ```
-
-<img width="1848" height="920" alt="job gen" src="https://github.com/user-attachments/assets/905681d7-7937-4be8-b178-839c1c716833" />
-
 
 ## 📜 License
  Built with ⚡ by SHEZA, AI Agentic Workflow Developer.
